@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "slug":"Why-Sustainability",
+    "title": "Why Sustainability is the Future of Business: Insights from Nanban's ESG Experts",
+    "genre": ["Category", "Category2"],
+    "post_images":"blog-post1.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id": 2,
+    "slug":"how-nanban-revolutionized",
+    "title": "How Nanban Revolutionized Environmental Stewardship in the Energy Sector",
+    "genre": ["Category2"],
+    "post_images":"blog-post2.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":3,
+    "slug":"responsible-investing",
+    "title":"Responsible Investing: What It Is & Why You Should Care",
+    "genre": ["Category", "Category3"],
+    "post_images":"blog-post3.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":4,
+    "slug":"the-importance-of-diversity",
+    "title": "The Importance of Diversity and Inclusion in ESG: Lessons from Nanban's HR Team",
+    "genre": ["Category4"],
+    "post_images":"blog-post4.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":5,
+    "slug":"sustainable-innovation",
+    "title": "Sustainable Innovation: How Nanban is Leading the Charge in Clean Technology",
+    "genre": ["Category5", "Category3"],
+    "post_images":"blog-post5.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":6,
+    "slug":"investing-better",
+    "title": "Investing in a Better Future: Nanban's Approach to Impact Investing",
+    "genre": ["Category6"],
+    "post_images":"blog-post6.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":7,
+    "slug":"the-business-case",
+    "title": "The Business Case for ESG: Companies That Embrace Sustainability Perform Better",
+    "genre": ["Category7"],
+    "post_images":"blog-post7.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":8,
+    "slug":"nanban-carbon-neutral-journey",
+    "title": "Nanban's Carbon Neutral Journey: How We're Achieving Net Zero Emissions",
+    "genre": ["Category8", "Category5"],
+    "post_images":"blog-post8.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":9,
+    "slug":"an-intro-to-this-exciting",
+    "title": "Green Bonds 101: An Intro to this Exciting Opportunity for Sustainable Investing",
+    "genre": ["Category9"],
+    "post_images":"blog-post9.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+  },
+  {
+    "id":10,
+    "slug":"responsible-investing",
+    "title":"Responsible Investing:What It Is & Why You Should Care",
+    "genre": ["Category", "Category10"],
+    "post_images":"blog-post3.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":11,
+    "slug":"the-importance-of-diversity",
+    "title": "The Importance of Diversity and Inclusion in ESG: Lessons from Nanban's HR Team",
+    "genre": ["Category11"],
+    "post_images":"blog-post4.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  },
+  {
+    "id":12,
+    "slug":"sustainable-innovation",
+    "title": "Sustainable Innovation: How Nanban is Leading the Charge in Clean Technology",
+    "genre": ["Category12", "Category9"],
+    "post_images":"blog-post5.png",
+    "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+       
+  }
+  
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "slug":"how-nanban-is-leading",
+    "title": "Sustainable Innovation: How Nanban is Leading the Charge in Clean Technology",
+    "subtitle":"Lorem ipsum subtitle copy might go here",
+    "post_images":"press-img1.png",
+    "category": "Category1",
+    "date": "January 21, 2023",
+    "time": "5:30 pm",
+    "comments": " ",    
+    "content": "Nanban, a leading ESG company, has recently taken a big step forward in its mission to promote sustainability and responsibility in the business world. With the launch of a series of new ESG initiatives, Nanban's executives have rallied around this important cause and achieved remarkable success.\n The new initiatives focus on three main areas: environmental sustainability, social responsibility, and corporate governance. To drive progress in each of these areas, Nanban has implemented a range of innovative strategies and technologies, including advanced data analytics and machine learning algorithms.\n In addition to its environmental efforts, Nanban has also made great strides in promoting social responsibility. Through partnerships with local communities and non-profit organizations, Nanban has launched several initiatives to support education, healthcare, and other important social causes. These initiatives have had a tangible impact on people's lives and helped to foster greater social cohesion and economic development.\n Finally, Nanban has also made significant progress in improving its corporate governance practices. By prioritizing transparency and accountability, Nanban has earned the trust and confidence of its stakeholders, including investors, customers, and employees. This has led to increased profitability, better risk management, and improved employee satisfaction."
+  },
+  {
+    "id": 2,
+    "slug":"what-new-changes-in-governance",
+    "title": "What new changes in governance means for the industry in the new year",
+    "post_images":"press-img2.png",
+    "category": "Category2", 
+    "date": "March  21, 2023",
+    "time": "8:15 am",
+    "comments": "08",    
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendut."
+  },
+  {
+    "id": 3,
+    "slug":"how-inflation-has-affected",
+    "title": "How inflation has affected innovation in sustainable housing markets since Q2",
+    "post_images":"press-img3.png",
+    "category": "Category3", 
+    "date": "January 21, 2023",
+    "time": "5:30 pm",
+    "comments": "5",    
+    "content": "Aliquam erat volutpat. Sed pulvinar elit non orci ullamcorper, at convallis nisl condimentum. Vestibulum nec orci ex. Duis vulputate eleifend odio vitae ullamcorper. Duis lorem sapien, pulvinar nec mi at, commodo gravida lectus."
+  },
+  {
+    "id": 4,
+    "slug":"partnering-with-new-technologies",
+    "title": "Partnering with new technologies to advance our vision",
+    "post_images":"press-img4.png",
+    "category": "Category",    
+    "date": "July  24, 2022",
+    "time": "11:30 am",
+    "comments": "25", 
+    "content": "Aliquam erat volutpat. Sed pulvinar elit non orci ullamcorper, at convallis nisl condimentum. Vestibulum nec orci ex."
+  },
+  {
+    "id": 5,
+    "slug":"nanban-executives-rally-around",
+    "title": "Nanban Executives rally around new initiative, strike gold",
+    "post_images":"press-img5.png",
+    "category": "Category5",   
+    "date": "January 21, 2023",
+    "time": "5:30 pm",
+    "comments": " ",  
+    "content": "Aliquam erat volutpat. Sed pulvinar elit non orci ullamcorper, at convallis nisl condimentum. Vestibulum nec orci ex."
+  },
+  {
+    "id": 6,
+    "slug":"how-inflation-has-affected-innovation",
+    "title": "How inflation has affected innovation in sustainable housing markets since Q2",
+    "post_images":"press-img6.png",
+    "category": "Category6",
+    "date": "January 21, 2023",
+    "time": "5:30 pm",
+    "comments": "05",     
+    "content": "Aliquam erat volutpat. Sed pulvinar elit non orci ullamcorper, at convallis nisl condimentum. Vestibulum nec orci ex."
+  },
+  {
+    "id": 7,
+    "slug":"partnering-with-new-technologies",
+    "title": "Partnering with new technologies to advance our vision",
+    "post_images":"press-img7.png",
+    "category": "Category", 
+    "date": "June 15, 2023",
+    "time": "9:45 pm",
+    "comments": "08",    
+    "content": "Sed magna lorem, hendrerit sed hendrerit id, rhoncus eu erat. Aliquam erat volutpat. In eu ullamcorper mauris, vitae semper risus. Aenean molestie velit non elit consequat, non facilisis sem dapibus. "
+  },
+  {
+    "id": 8,
+    "slug":"what-new-changes",
+    "title": "What new changes in governance means for the industry in the new year",
+    "post_images":"press-img8.png",
+    "category": "Category",  
+    "date": "January 21, 2023",
+    "time": "5:30 pm",
+    "comments": "05",   
+    "content": "Sed magna lorem, hendrerit sed hendrerit id, rhoncus eu erat. Aliquam erat volutpat. In eu ullamcorper mauris, vitae semper risus. Aenean molestie velit non elit consequat, non facilisis sem dapibus. "
+  },
+  {
+    "id": 9,
+    "slug":"what-new-changes-in-governance",
+    "title": "What new changes in governance means for the industry in the new year",
+    "post_images":"press-img2.png",
+    "category": "Category2", 
+    "date": "January 21, 2022",
+    "time": "5:30 pm",
+    "comments": "14",    
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendut."
+  },
+  {
+    "id": 10,
+    "slug":"partnering-with-new-technologies",
+    "title": "Partnering with new technologies to advance our vision",
+    "post_images":"press-img4.png",
+    "category": "Category",
+    "date": "April 12, 2021",
+    "time": "7:20 pm",
+    "comments": "01",     
+    "content": "Aliquam erat volutpat. Sed pulvinar elit non orci ullamcorper, at convallis nisl condimentum. Vestibulum nec orci ex."
+  },
+  {
+    "id": 11,
+    "slug":"nanban-executives-rally-around",
+    "title": "Nanban Executives rally around new initiative, strike gold",
+    "post_images":"press-img1.png",
+    "category": "Category1",
+    "date": "March 05, 2023",
+    "time": "8:30 pm",
+    "comments": "15",     
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum, nulla sed tristique lacinia, nibh ante imperdiet lacus, nec congue sapien eros vitae ex. Praesent sagittis vulputate ligula, eget porta massa mollis nec. Cras malesuada libero ac turpis fermentum pretium. In hendrerit faucibus enim quis imperdiet. Morbi odio dui, malesuada ut tincidunt eget, ultrices sed massa. Vivamus egestas rhoncus justo, eu accumsan mi sodales et."
+  }
+  
+]

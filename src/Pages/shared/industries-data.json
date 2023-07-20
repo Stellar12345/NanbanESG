@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "slug":"renewable-energy",
+    "title": "Renewable Energy",
+    "post_images":"industries-desktop1.png",
+    "post_images_mobile":"industries-mobile.png",
+    "Type": "Renew, Infra",  
+       "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+  },
+  {
+   "id": 2,
+   "slug":"real-estate",
+   "title": "Real Estate",
+   "Type": "Wind, Infra", 
+   "post_images":"real-estate-desktop.png",
+   "post_images_mobile":"real-estate-mobile.png",
+   "content": "Planting trees in areas where fores."
+ },
+ {
+  "id": 3,
+  "slug":"sustainable-agriculture",
+  "title": "Sustainable Agriculture",
+  "Type": "Renew, Infra", 
+  "post_images":"sustainable-agri-desktop.png",
+  "post_images_mobile":"sustainable-agri-mobile.png",
+  "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+},
+{
+  "id": 4,
+  "slug":"sustainable-housing",
+  "title": "Sustainable Housing",
+  "Type": "Carbon, Infra", 
+  "post_images":"sustainable-housing-desktop.png",
+  "post_images_mobile":"sustainable-housing-mobile.png",
+  "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+},
+{
+  "id": 5,
+  "slug":"afforestation",
+  "title": "Afforestation",
+  "Type": "Renew, Impact", 
+  "post_images":"afforestation-desktop.png",
+  "post_images_mobile":"afforestation-mobile.png",
+  "content": "It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+},
+{
+  "id": 6,
+  "slug":"carbon-sequestration",
+  "title": "Carbon sequestration",
+  "Type": "Renew, Infra", 
+  "post_images":"carbon-sequestration-desktop.png",
+  "post_images_mobile":"carbon-sequestration-mobile.png",
+  "content": "preserve biodiversity and help mitigate climate change."
+},
+{
+  "id": 7,
+  "slug":"real-estate2",
+  "title": "Real Estate",
+  "Type": "Renew, Infra", 
+  "post_images":"real-estate-desktop.png",
+  "post_images_mobile":"real-estate-mobile.png",
+  "content": "Planting trees in areas where fores."
+},
+{
+  "id": 8,
+  "slug":"sustainable-housing2",
+  "title": "Sustainable Housing",
+  "Type": "Renew, Infra", 
+  "post_images":"sustainable-housing-desktop.png",
+  "post_images_mobile":"sustainable-housing-mobile.png",
+  "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+},
+{
+  "id": 9,
+  "slug":"afforestation2",
+  "title": "Afforestation",
+  "Type": "Renew, Infra", 
+  "post_images":"afforestation-desktop.png",
+  "post_images_mobile":"afforestation-mobile.png",
+  "content": "It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+},
+{
+  "id": 10,
+  "slug":"renewable-energy2",
+  "title": "Renewable Energy",
+  "post_images":"industries-desktop1.png",
+  "post_images_mobile":"industries-mobile.png",
+  "Type": "Renew, Infra",    
+  "content": "Planting trees in areas where forests have been removed. It helps to increase carbon sequestration, preserve biodiversity and help mitigate climate change."
+}
+
+]
